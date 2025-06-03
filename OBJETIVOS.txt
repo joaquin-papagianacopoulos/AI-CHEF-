@@ -1,0 +1,2 @@
+Crear agentes para que recomiende recetas con IA
+Debe dar al menos 5 pasos para llevar a cabo
