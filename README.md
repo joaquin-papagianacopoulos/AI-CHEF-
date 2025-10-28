@@ -15,8 +15,8 @@ Chef virtual inteligente creado con tecnologías de IA avanzadas. Sistema multi-
 
 # 🚀 Instalación
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/chef-virtual-ia.git
-cd chef-virtual-ia
+git clone [https://github.com/joaquin-papagianacopoulos/AI-CHEF-](https://github.com/joaquin-papagianacopoulos/AI-CHEF-.git)
+cd AI-CHEF-
 
 # Instalar dependencias
 pip install -r requirements.txt
