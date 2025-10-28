@@ -1,4 +1,4 @@
-#Chef Virtual Inteligente 🍳
+# Chef Virtual Inteligente 🍳
 
 Chef virtual inteligente creado con tecnologías de IA avanzadas. Sistema multi-agente que genera recetas personalizadas con una interfaz intuitiva en Streamlit, fácil de usar para cualquier usuario.
 
