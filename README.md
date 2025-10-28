@@ -20,7 +20,7 @@ cd chef-virtual-ia
 
 # Instalar dependencias
 pip install -r requirements.txt
-💻 Uso
+
 # Ejecutar la aplicación
 streamlit run app.py
 ```
