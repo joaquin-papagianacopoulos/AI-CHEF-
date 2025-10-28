@@ -2,14 +2,18 @@
 
 Chef virtual inteligente creado con tecnologías de IA avanzadas. Sistema multi-agente que genera recetas personalizadas con una interfaz intuitiva en Streamlit, fácil de usar para cualquier usuario.
 
-🌟 Características
+# 🌟 Características
 -Generación de recetas personalizadas mediante IA avanzada
+
 -Sistema multi-agente con CrewAI para resultados más precisos y creativos
+
 -Interfaz intuitiva desarrollada con Streamlit
+
 -Powered by Groq - respuestas ultrarrápidas
+
 -Fácil de usar - no requiere conocimientos técnicos
 
-🚀 Instalación
+# 🚀 Instalación
 # Clonar el repositorio
 git clone https://github.com/tu-usuario/chef-virtual-ia.git
 cd chef-virtual-ia
